@@ -1,0 +1,20 @@
+[{
+  "id": "hf-agentic-rag",
+  "title": "Hugging Face Agents Course - Agentic RAG",
+  "url": "https://huggingface.co/learn/agents-course/unit3/agentic-rag/introduction",
+  "source_type": "course",
+  "topics": ["RAG", "agents"],
+  "trust_level": "primary",
+  "status": "pending"
+} ,
+
+{
+"id": "rag-evaluation-notes",
+"title": "My RAG Evaluation Notes",
+"url": "data/notes/rag_evaluation.md",
+"source_type": "personal_note",
+"topics": ["RAG", "evaluation"],
+"trust_level": "personal",
+"status": "ready"
+}
+]
